@@ -1,5 +1,15 @@
 <h4 align="center">Hi 👋! My name is Aakash and I'm a Front-End React Developer, from India...A creative Front-End Developer on a journey to shape the digital world with code and design.<br><br>🌟 My passion lies in crafting visually stunning and user-friendly web applications, and I'm skilled in HTML, CSS, JavaScript, React js, and Bootstrap.</h4>
-<h4 align="center">📫 Gmail:<a href="#">aakashaakash0013@gmail.com</a></h4>
+<h4 align="center">📫 Gmail: <a href="#" class="gmaillink">aakashaakash0013@gmail.com</a></h4>
+
+<style>
+    .gmaillink{
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    .gmaillink:hover{
+        color: #007bff;
+    }
+</style>
 
 
 
@@ -39,16 +49,13 @@
 
 
 
-<div>
-    <a href="https://www.linkedin.com/in/navaneethan-k-v-546a9025b/" target="_blank">
-        <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="35" alt="linkedin logo"/>
-    </a> 
-    <a href="https://www.linkedin.com/in/navaneethan-k-v-546a9025b/" target="_blank">
-        <img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="35" alt="linkedin logo"/>
-    </a>
-    <a href="https://github.com/aakash4372" target="_blank">
-        <img src="https://www.svgrepo.com/show/493677/github-repo-git-octocat.svg" height="35" alt="linkedin logo"/>
-    </a>
+<div align="">
+  <a href="https://www.instagram.com/_aakash_5028/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/aakash4372" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 <br clear="both">
@@ -56,8 +63,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakash4372&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash4372&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aakash4372&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash4372&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
