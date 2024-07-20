@@ -40,7 +40,6 @@
 
 
 <div>
-    
     <a href="https://www.linkedin.com/in/navaneethan-k-v-546a9025b/" target="_blank">
         <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="35" alt="linkedin logo"/>
     </a> 
@@ -50,10 +49,9 @@
     <a href="https://github.com/aakash4372" target="_blank">
         <img src="https://www.svgrepo.com/show/493677/github-repo-git-octocat.svg" height="35" alt="linkedin logo"/>
     </a>
-    
 </div>
 
-<br><br>    
+<br clear="both">
 
 
 
