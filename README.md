@@ -1,15 +1,6 @@
 <h4 align="center">Hi 👋! My name is Aakash and I'm a Front-End React Developer, from India...A creative Front-End Developer on a journey to shape the digital world with code and design.<br><br>🌟 My passion lies in crafting visually stunning and user-friendly web applications, and I'm skilled in HTML, CSS, JavaScript, React js, and Bootstrap.</h4>
-<h4 align="center">📫 Gmail: <a href="#" class="gmaillink">aakashaakash0013@gmail.com</a></h4>
+<h4 align="center">📫 Gmail: <a href="#" style="text-decoration: none;" >aakashaakash0013@gmail.com</a></h4>
 
-<style>
-    .gmaillink{
-        text-decoration: none;
-        transition: color 0.3s ease;
-    }
-    .gmaillink:hover{
-        color: #007bff;
-    }
-</style>
 
 
 
